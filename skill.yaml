@@ -1,0 +1,5 @@
+name: railway-xray-node
+title: Railway 变成 xray 代理节点
+description: 在 Railway 上部署 xray 代理节点（VMess 给 Surge + VLESS 给其他客户端，Node 前门发订阅/伪装）的通用方法：生成钥匙、5 个部署文件、CLI 直传或 GitHub 集成两条部署路线、验收、换区、客户端导入、费用说明。
+category: devops
+prompt_inclusion: never
